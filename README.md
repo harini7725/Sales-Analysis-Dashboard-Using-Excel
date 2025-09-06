@@ -11,5 +11,3 @@ It provides insights into **customer trends, product performance, and revenue gr
 
 ---
 
-## 🔗 Download
-[📥 Download the Dashboard](./Sales-Dashboard.xlsx)
