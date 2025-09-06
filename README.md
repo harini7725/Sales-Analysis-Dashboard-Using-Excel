@@ -10,4 +10,7 @@ It provides insights into **customer trends, product performance, and revenue gr
 )
 
 ---
+## 📥 Download Project
+[Click here to download the Sales Analysis Dashboard](Sales-Analysis-Dashboard.xlsx)
 
+---
